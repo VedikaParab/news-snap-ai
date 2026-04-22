@@ -1,0 +1,13 @@
+streamlit==1.37.1
+python-dotenv==1.0.1
+requests==2.32.3
+newspaper3k
+beautifulsoup4==4.12.3
+lxml
+lxml[html_clean]
+langchain==0.2.12
+langchain-core
+langchain-groq==0.1.9
+langchain-community==0.2.11
+numpy
+tavily-python>=0.3.0
