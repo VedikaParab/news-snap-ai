@@ -47,5 +47,5 @@ NewsSnap AI is an AI-powered web app that extracts news articles from URLs and g
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/news-snap-ai.git
+git clone https://github.com/VedikaParab/news-snap-ai.git
 cd news-snap-ai
